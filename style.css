@@ -4,13 +4,13 @@
   padding: 0;
   font-family: "Bree Serif", serif;
   box-sizing: border-box;
+  box-shadow: 2px 2px 30px rgb(52, 48, 48);
 }
-.display{
-    border: solid #d9d9d9 2px;
-    height: 100px;
-    border-radius: 15px;
-    background: #1f1111;
-    
+.display {
+  border: solid #d9d9d9 2px;
+  height: 100px;
+  border-radius: 15px;
+  background: #1f1111;
 }
 
 .container {
@@ -61,7 +61,7 @@ form .display input {
   color: #f28f0e;
 }
 
-.container2 input:hover{
-    color: #d8e614;
-    transition: .7s;
+.container2 input:hover {
+  color: #d8e614;
+  transition: 0.7s;
 }
